@@ -8,30 +8,52 @@ Prerequisites : Before beginning this lab, you must:
 
 Equipment : Personal computer with the required software installed.
 Files to copy from Lab 3 (do NOT copy from Lab 1 or Lab 2!):
+
 alu.dig
+
 and_add.dig
+
 brainless.dig
+
 four_bit_adder.dig
+
 four_bit_mux.dig
+
 four_bit_reg.dig
+
 full_adder.dig
+
 half_adder.dig
+
 incrementer.dig
+
 not_neg.dig
+
 program_ctr.dig
+
 program_ram.dig
+
 two_bit_mux.dig
 Files to download:
+
 rom_vals.hex
+
 ram_vals.hex
+
 micro_top.v
+
 micro_stim.v
 
 Objectives : When you have completed this lab, you will be able to:
+
 • Build a Memory Address Generator for a microprocessor.
+
 • Design a ROM-based controller for a microprocessor.
+
 • Create an instruction set for a microprocessor.
+
 • Use the instruction set to write a program and enter it into a RAM.
+
 • Execute programs in Digital and in Verilog.
 
 Introduction
