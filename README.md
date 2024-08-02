@@ -78,5 +78,6 @@ The memory address generation circuit will allow our processor to access memory 
 both in and out of sequential order. The circuit can:
 • Automatically increment memory addresses after each instruction or operand is
 retrieved by the CPU.
+
 • Change the memory reference address so that we can store data to arbitrary memory
 locations or read data from arbitrary memory locations.
